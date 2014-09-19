@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OaklandScreenCapture", "OaklandScreenCapture\OaklandScreenCapture.csproj", "{DDCCB709-5A43-4007-885C-72C55CCAE89B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OaklandScreenCaptureSetup", "OaklandScreenCaptureSetup\OaklandScreenCaptureSetup.vdproj", "{800B0C17-4544-42C8-8CB7-D32D423B137B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDCCB709-5A43-4007-885C-72C55CCAE89B}.Debug|x86.ActiveCfg = Debug|x86
+		{DDCCB709-5A43-4007-885C-72C55CCAE89B}.Debug|x86.Build.0 = Debug|x86
+		{DDCCB709-5A43-4007-885C-72C55CCAE89B}.Release|x86.ActiveCfg = Release|x86
+		{DDCCB709-5A43-4007-885C-72C55CCAE89B}.Release|x86.Build.0 = Release|x86
+		{800B0C17-4544-42C8-8CB7-D32D423B137B}.Debug|x86.ActiveCfg = Debug
+		{800B0C17-4544-42C8-8CB7-D32D423B137B}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

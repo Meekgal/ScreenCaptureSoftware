@@ -1,0 +1,12 @@
+c:\users\mpmadej\documents\visual studio 2010\Projects\OaklandScreenCapture\OaklandScreenCapture\bin\Debug\OaklandScreenCapture.exe
+c:\users\mpmadej\documents\visual studio 2010\Projects\OaklandScreenCapture\OaklandScreenCapture\bin\Debug\OaklandScreenCapture.pdb
+c:\users\mpmadej\documents\visual studio 2010\Projects\OaklandScreenCapture\OaklandScreenCapture\obj\x86\Debug\OaklandScreenCapture.Properties.Resources.resources
+c:\users\mpmadej\documents\visual studio 2010\Projects\OaklandScreenCapture\OaklandScreenCapture\obj\x86\Debug\OaklandScreenCapture.csproj.GenerateResource.Cache
+c:\users\mpmadej\documents\visual studio 2010\Projects\OaklandScreenCapture\OaklandScreenCapture\obj\x86\Debug\OaklandScreenCapture.exe
+c:\users\mpmadej\documents\visual studio 2010\Projects\OaklandScreenCapture\OaklandScreenCapture\obj\x86\Debug\OaklandScreenCapture.pdb
+C:\Users\mpmadej\documents\visual studio 2010\Projects\OaklandScreenCapture\OaklandScreenCapture\obj\x86\Debug\OaklandScreenCapture.printForm.resources
+C:\Users\mpmadej\Documents\Visual Studio 2010\Projects\OaklandScreenCapture\OaklandScreenCapture\obj\x86\Debug\OaklandScreenCapture.csprojResolveAssemblyReference.cache
+C:\Users\mpmadej\Documents\Visual Studio 2010\Projects\OaklandScreenCapture\OaklandScreenCapture\bin\Debug\OaklandScreenCapture.exe.manifest
+C:\Users\mpmadej\Documents\Visual Studio 2010\Projects\OaklandScreenCapture\OaklandScreenCapture\bin\Debug\OaklandScreenCapture.application
+C:\Users\mpmadej\Documents\Visual Studio 2010\Projects\OaklandScreenCapture\OaklandScreenCapture\obj\x86\Debug\OaklandScreenCapture.exe.manifest
+C:\Users\mpmadej\Documents\Visual Studio 2010\Projects\OaklandScreenCapture\OaklandScreenCapture\obj\x86\Debug\OaklandScreenCapture.application
